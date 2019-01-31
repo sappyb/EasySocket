@@ -1,0 +1,11 @@
+Compiling the project
+Make clean
+Make all
+Run the project
+Server- In a terminal run ./messenger_server user_info_file server_config
+Client- Open another terminal and run ./messenger_client client_config
+Make sure that the server and the port in the client config matches the name of server and port in the server running.
+After the client connect to the server.
+use 
+r to resgister and l to login
+
